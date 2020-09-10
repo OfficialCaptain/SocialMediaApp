@@ -216,5 +216,6 @@ dmypy.json
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+.myvenv
 
 # End of https://www.toptal.com/developers/gitignore/api/django,venv,python
